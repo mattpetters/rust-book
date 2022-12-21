@@ -13,7 +13,7 @@ fn main() {
         println!("The maximum is not configured");
     }
 
-    //In other words, you can think of if let as syntax sugar for
+    //In other words, you can think of if let as syntax sar for
     //a match that runs code when the value matches one pattern
     //and then ignores all other values.
 
