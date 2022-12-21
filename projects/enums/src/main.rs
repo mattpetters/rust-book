@@ -43,6 +43,11 @@ fn main() {
 
     let m = Message::Write(String::from("hello"));
     m.call();
-}
+
+//     let x: i8 = 5;
+//     let y: Option<i8> = Some(5);
+
+//     let sum = x + y;
+// }
 
 // fn route(ip_kind: IpAddrKind) {}
