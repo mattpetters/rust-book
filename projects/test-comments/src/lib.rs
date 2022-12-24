@@ -1,3 +1,10 @@
+//! # Matt's Lib
+//!
+//! `test_comments` is a collection of utilities to make performing certain
+//! calculations more convenient.
+
+pub mod art;
+
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
